@@ -1,4 +1,4 @@
-# End-to-end-project-for-Prediction-Problem.
+# Prediction-Problem.
 
 ### <span style="color:red">Note:</span> <span style="color:blue">This project from what I learned from the book "Hands on Machine Learning and Deep Learning" and Kaggle.</span>      
 
